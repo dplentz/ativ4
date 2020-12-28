@@ -1,4 +1,4 @@
-var valorinicio;
+var valorinicio, valortotal, taxagar;
 function janta() {
         valorinicio = valor.value;
         valorinicio = parseFloat(valorinicio);
